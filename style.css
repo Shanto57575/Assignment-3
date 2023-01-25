@@ -1,4 +1,8 @@
-.fonte {
+body::-webkit-scrollbar{
+    display: none;
+}
+
+.fonte{
     font-family: 'EB Garamond';
 }
 
